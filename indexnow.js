@@ -1,6 +1,7 @@
 (function(){
   // === IndexNow auto-ping for Blogger (AthenasAtticLLC) ===
-  const INDEXNOW_KEY = "ed693176adf84b109953a0acf2b16bfc";
+  const INDEXNOW_KEY = "a4da3220caad4edfab7138b7f7261c7a
+";
   const pageUrl = (document.querySelector('link[rel="canonical"]') || {}).href || window.location.href;
 
   // Only run on post pages (Blogger posts include /YYYY/MM/)
